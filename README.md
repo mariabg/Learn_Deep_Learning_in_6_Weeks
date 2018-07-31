@@ -11,9 +11,9 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - [X] Read Part I of the Deep Learning Book found [here](http://www.deeplearningbook.org/)
 - [X] Use this cheat sheet to help understand any math notation, found [here](https://www.flickr.com/photos/95869671@N08/40544016221)
 - [X] Watch [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
-- [ ] Read [Neural Net in 11 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/)
-- [ ] Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
-- [ ] Watch [Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
+- [X] Read [Neural Net in 11 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+- [X] Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
+- [X] Watch [Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
 
 ## Week 2 - Convolutional Networks
 
